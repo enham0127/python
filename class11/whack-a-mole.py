@@ -44,5 +44,5 @@ while True:
     gophers_update(screen)
     screen_update(screen)
 
-    clock.tick(30)
+    clock.tick(10)
     pygame.display.update()
